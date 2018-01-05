@@ -13,5 +13,4 @@ image: >-
 ---
 
 I was borne broken harted,
-
 That's the way that it started…
