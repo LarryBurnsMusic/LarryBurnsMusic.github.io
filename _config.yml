@@ -56,10 +56,10 @@ avatar: "/img/logo-LBM-003.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Larry Burns
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
+  email: "larry@larryburnsmusic.com"
+  facebook: larryburnsmusic  # eg. daattali
   github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: larryburnsmusic   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -76,19 +76,19 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
   steam: false
@@ -101,17 +101,17 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
-
+  youtube: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "LarryBurnsMusic.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "larryburnsmusic"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-111901552-1"
 
 # Google Tag Manager ID
 #gtm: ""
