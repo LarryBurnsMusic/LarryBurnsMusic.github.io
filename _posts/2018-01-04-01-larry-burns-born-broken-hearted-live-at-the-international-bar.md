@@ -12,5 +12,5 @@ image: >-
   /img/01%20Larry%20Burns%20-%20Born%20Broken%20Hearted%20-%20Live%20At%20The%20International%20Bar-thum.png
 ---
 
-I was borne brokenharted,
+I was borne brokenharted,  
 That's the way that it started…
