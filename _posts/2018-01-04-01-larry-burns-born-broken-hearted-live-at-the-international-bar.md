@@ -7,8 +7,8 @@ date: 2018/01/04
 tags:
   - Live At The International Bar
   - Orignal
-image: >-
-  /img/01%20Larry%20Burns%20-%20Born%20Broken%20Hearted%20-%20Live%20At%20The%20International%20Bar-thum.png
+image: /img/Larry%20Burns%20-%20Facebook.png
+bigimg: /img/Larry%20Burns%20-%20Facebook.png
 ---
 ![01 Larry Burns - Born Broken Hearted - Live At The International Bar.png]({{site.baseurl}}/img/01%20Larry%20Burns%20-%20Born%20Broken%20Hearted%20-%20Live%20At%20The%20International%20Bar.png)
 
