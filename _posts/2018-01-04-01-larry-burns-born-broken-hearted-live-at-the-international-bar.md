@@ -6,7 +6,6 @@ subtitle: From Live At The International Bar
 date: 2018/01/04
 tags:
   - Live At The International Bar
-  - Orignal
 youtubeId: LcfAuwMHUpE
 ---
 
