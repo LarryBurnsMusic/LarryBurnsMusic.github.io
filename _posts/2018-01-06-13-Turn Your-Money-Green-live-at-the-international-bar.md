@@ -11,3 +11,4 @@ date: 2018/01/06
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 {% include youtubeLink.html id=page.youtubeId %}
+
