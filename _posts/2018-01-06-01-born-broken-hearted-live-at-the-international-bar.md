@@ -9,7 +9,7 @@ tags:
 subtitle: >-
   Artist: Larry Burns, Album: Live At The International Bar, Track: 01 , Title: Born Broken Hearted
 date: 2018/01/05
-image: 01 Larry Burns - Born Broken Hearted - Live At The International Bar-thum.png
+image: img/01 Larry Burns - Born Broken Hearted - Live At The International Bar-thum.png
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 {% include youtubeLink.html id=page.youtubeId %}
