@@ -11,6 +11,4 @@ subtitle: >-
 date: 2018/01/06
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
-
-## 14 Larry Burns - Coppers And Brass - Live At The International Bar
 {% include youtubeLink.html id=page.youtubeId %}
