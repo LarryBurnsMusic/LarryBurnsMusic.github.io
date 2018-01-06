@@ -7,7 +7,6 @@ date: 2018/01/04
 tags:
   - Live At The International Bar
   - Orignal
-bigimg: /img/Larry%20Burns%20-%20Facebook.png
 youtubeId: LcfAuwMHUpE
 ---
 
