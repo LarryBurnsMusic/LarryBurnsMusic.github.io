@@ -8,7 +8,6 @@ tags:
 subtitle: >-
   Artist: Larry Burns, Album: Live At The International Bar, Track: 13, Title: Turn Your Money Green
 date: 2018/01/05
-image: https://img.youtube.com/vi/4XW99E42rwg/0.jpg
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 {% include youtubeLink.html id=page.youtubeId %}
