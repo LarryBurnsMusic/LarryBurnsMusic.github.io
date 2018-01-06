@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Laid My Cards Out
 file: 02-Laid-My-Cards-Out
-youtubeId: LcfAuwMHUpE
+youtubeId: soU6URm4TZY
 tags:
   - Live At The International Bar
 subtitle: >-
