@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 14 Coppers And Brass - Live At The International Bar
+title: Coppers And Brass - Live At The International Bar
 youtubeId: LcfAuwMHUpE
 tags:
   - Live At The International Bar
