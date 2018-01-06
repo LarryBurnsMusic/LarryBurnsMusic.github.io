@@ -6,7 +6,7 @@ youtubeId: AG_LLitq3io
 tags:
   - Live At The International Bar
 subtitle: >-
-  Artist: Larry Burns, Album: Live At The International Bar, Track: 11, Title: So Cold In China
+  Artist: Larry Burns, Album: Live At The International Bar, Track: 09, Title: So Cold In China
 date: 2018/01/05
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
