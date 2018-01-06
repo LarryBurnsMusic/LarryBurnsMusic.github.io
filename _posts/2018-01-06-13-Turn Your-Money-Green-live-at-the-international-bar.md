@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Turn Your Money Green - Live At The International Bar
+title: Turn Your Money Green
 youtubeId: 4XW99E42rwg
 tags:
   - Live At The International Bar
