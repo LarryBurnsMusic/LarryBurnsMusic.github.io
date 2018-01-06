@@ -6,7 +6,7 @@ youtubeId: LcfAuwMHUpE
 tags:
   - Live At The International Bar
 subtitle: >-
-  Artist: Larry Burns, Album: Live At The International Bar, Track: 14, Title:
+  Artist: Larry Burns, Album: Live At The International Bar, Track: 14, Title: Coppers And Brass
   Coppers And Brass.
 date: 2018/01/05
 ---

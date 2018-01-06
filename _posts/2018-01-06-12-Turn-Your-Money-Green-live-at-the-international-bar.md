@@ -6,7 +6,7 @@ youtubeId: jsfhA5DAmDY
 tags:
   - Live At The International Bar
 subtitle: >-
-  Artist: Larry Burns, Album: Live At The International Bar, Track: 12, Title Shake Sugary.
+  Artist: Larry Burns, Album: Live At The International Bar, Track: 12, Title Shake Sugary
 date: 2018/01/05
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
