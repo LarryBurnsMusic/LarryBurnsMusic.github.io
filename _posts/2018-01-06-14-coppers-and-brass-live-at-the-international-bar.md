@@ -15,6 +15,13 @@ artist: Larry Burns
 album: Live At The International Bar
 trackNumber: 14
 songTitle: Coppers And Brass
+
+bigimg:
+  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+
+
 date: 2018/01/05
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
