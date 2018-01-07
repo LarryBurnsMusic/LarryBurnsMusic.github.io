@@ -12,7 +12,7 @@ artist: Larry Burns
 album: Live At The International Bar
 trackNumber: 10
 songTitle: Green Rocky Road
-
+image: /img/larry-burns-live-at-the-inter-International-Bar-Corner-thum.jpg
 bigimg:
   - "/img/larry-burns-live-at-the-inter-James-Joyce.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
   - "/img/larry-burns-live-at-the-inter-Lounge-Mirror.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"

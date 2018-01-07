@@ -13,7 +13,7 @@ artist: Larry Burns
 album: Live At The International Bar
 trackNumber: 03
 songTitle: Song Of The Deep Rowling Sea
-
+image: /img/larry-burns-live-at-the-inter-International-Bar-Corner-thum.jpg
 bigimg:
   - "/img/larry-burns-live-at-the-inter-James-Joyce.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
   - "/img/larry-burns-live-at-the-inter-irish-gods.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
