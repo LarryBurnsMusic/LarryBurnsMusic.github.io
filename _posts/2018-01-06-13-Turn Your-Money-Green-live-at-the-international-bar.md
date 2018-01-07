@@ -14,9 +14,9 @@ trackNumber: 13
 songTitle: Turn Your Money Green
 
 bigimg:
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-James-Joyce.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-Lounge-Mirror.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-International-Bar-Street-Shot.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
 
 
 date: 2018/01/05

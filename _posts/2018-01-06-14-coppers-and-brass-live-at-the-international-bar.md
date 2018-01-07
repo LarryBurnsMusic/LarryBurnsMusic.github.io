@@ -17,9 +17,9 @@ trackNumber: 14
 songTitle: Coppers And Brass
 
 bigimg:
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-Great-crowd-at-the-Monday-Echo.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-international-side-door.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-378185_498448143502225_1178702186_n.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
 
 
 date: 2018/01/05

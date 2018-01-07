@@ -10,13 +10,13 @@ subtitle: >-
 
 artist: Larry Burns
 album: Live At The International Bar
-trackNumber: 01
-songTitle: Born Broken Hearted
+trackNumber: 10
+songTitle: Green Rocky Road
 
 bigimg:
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-James-Joyce.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-Lounge-Mirror.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-International-Bar-Street-Shot.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
 
 
 date: 2018/01/05

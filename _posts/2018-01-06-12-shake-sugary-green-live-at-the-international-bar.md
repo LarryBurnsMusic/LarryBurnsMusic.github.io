@@ -10,13 +10,13 @@ subtitle: >-
 
 artist: Larry Burns
 album: Live At The International Bar
-trackNumber: 01
-songTitle: Born Broken Hearted
+trackNumber: 12
+songTitle: Shake Sugary
 
 bigimg:
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
-  - "/img/" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-18767687_1645410345472660_4611724459318311544_n.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-International-Bar-Corner.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
+  - "/img/larry-burns-live-at-the-inter-irish-gods.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
 
 date: 2018/01/05
 ---
