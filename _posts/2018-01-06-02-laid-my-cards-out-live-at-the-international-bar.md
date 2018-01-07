@@ -8,6 +8,12 @@ tags:
   - Live At The International Bar
 subtitle: >-
   Artist: Larry Burns, Album: Live At The International Bar, Track: 02 , Title: Laid My Cards Out
+
+artist: Larry Burns
+album: Live At The International Bar
+trackNumber: 02
+songTitle: Laid My Cards Out
+
 date: 2018/01/05
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
