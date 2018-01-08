@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me?
+bigimg: /img/LarryBurns-about-me.jpg
 ---
 
 My name is Larry Burns. I have the following qualities:
