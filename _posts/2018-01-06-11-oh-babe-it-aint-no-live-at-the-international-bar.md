@@ -8,10 +8,10 @@ tags:
 subtitle: >-
   Artist: Larry Burns, Album: Live At The International Bar, Track: 11, Title: Oh Babe It Ain't No Lie
 
-  artist: Larry Burns
-  album: Live At The International Bar
-  trackNumber: 11
-  songTitle: Oh Babe It Ain't No Lie
+artist: Larry Burns
+album: Live At The International Bar
+trackNumber: 11
+songTitle: Oh Babe It Ain't No Lie
 image: /img/larry-burns-live-at-the-inter-International-Bar-Corner-thum.jpg
 bigimg:
   - "/img/larry-burns-live-at-the-inter-Great-crowd-at-the-Monday-Echo.jpg" : "The International Bar https://www.facebook.com/internationalbardublin/"
